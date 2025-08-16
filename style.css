@@ -16,6 +16,7 @@ body {
   padding: 40px 20px;
 }
 
+
 header {
   width: 100%;
   max-width: 800px;
@@ -48,8 +49,8 @@ header form .search-container input {
 }
 
 header form .search-container input:focus {
-  border-color: #3498db;
-  box-shadow: 0 4px 10px rgba(52, 152, 219, 0.3);
+  border-color: #eaf035;
+  box-shadow: 0 4px 10px rgba(231, 219, 6, 0.759);
 }
 
 header form .search-container .material-symbols-outlined {
@@ -57,9 +58,10 @@ header form .search-container .material-symbols-outlined {
   top: 50%;
   right: 15px;
   transform: translateY(-50%);
-  color: #666;
+  color: #eaf035;
   cursor: pointer;
 }
+
 
 .images-container {
   display: grid;
@@ -83,6 +85,7 @@ header form .search-container .material-symbols-outlined {
   transform: scale(1.05);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
+
 
 .images-container .imageDiv {
   position: relative;
@@ -119,10 +122,11 @@ header form .search-container .material-symbols-outlined {
   display: block;
 }
 
+
 .load {
   border: none;
-  background: #3498db;
-  color: #fff;
+  background: #eaf035;
+  color: #1e3c72;
   font-size: 16px;
   font-weight: 600;
   padding: 12px 24px;
@@ -134,8 +138,9 @@ header form .search-container .material-symbols-outlined {
 }
 
 .load:hover {
-  background: #2980b9;
+  background: #d4de26;
 }
+
 
 main section {
   display: flex;
@@ -143,6 +148,7 @@ main section {
   justify-content: center;
   align-items: center;
 }
+
 
 @media screen and (max-width: 900px) {
   header {
