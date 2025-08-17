@@ -3,14 +3,14 @@
 A simple image search application built with HTML, CSS, and JavaScript that fetches images from the Unsplash API.
 
 # Features
-• Search for images in real-time
-• Load more images with pagination
-• Responsive grid-based layout
-• Hover overlay with image description
+- Search for images in real-time
+- Load more images with pagination
+- Responsive grid-based layout
+- Hover overlay with image description
 
 # Tech Stack
-• HTML, CSS, JavaScript
-• Unsplash API
+- HTML, CSS, JavaScript
+- Unsplash API
 
 # Preview
 
